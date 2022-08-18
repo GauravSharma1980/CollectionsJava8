@@ -1,0 +1,9 @@
+##############################
+## Java
+##############################
+
+*.classpath
+*.idea
+*.project
+*.Collections.iml.icloud
+*.class
