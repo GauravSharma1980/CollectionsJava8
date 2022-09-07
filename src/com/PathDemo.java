@@ -57,8 +57,9 @@ public class PathDemo {
  		Stream<Student> result =  mergeList.stream().flatMap(studentDetail-> studentDetail.getStudentList().stream());
  		
  		result.forEach(System.out::println);
- 		
- 		
+
+		System.out.println("*****************");
+
 		
 	}
 
